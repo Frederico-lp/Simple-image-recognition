@@ -1,0 +1,4 @@
+## Simple image recognition models
+
+Image recognition modela trained using tensorflow.\
+One model was trained to recognize numbers using the MNIST dataset and the other was trained to recognize if the image contains either a cat or a dog using the dataset available [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2Y1c3RUaEdCSUI4WExKd1BlblpHdVNXdURrQXxBQ3Jtc0tuMEVVTjQtMGRGQ3N2eXd2UXhSZjVYM21ZRUxXZFZRZ2Z4OUIzRlFUQ1dEMWl3VDdVeGsyU2V1VUtuLW41T0MySVJwajM2N2I5dmNfT2Q3ajFPVXcwMUVpY1QtcENzYU0xbVVYNVd5czRMR3hTNndEaw&q=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fdownload%2Fconfirmation.aspx%3Fid%3D54765&v=j-3vuBynnOE)
